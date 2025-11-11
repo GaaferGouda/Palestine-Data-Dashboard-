@@ -79,7 +79,7 @@ If a column is missing, it will default to `0` for numeric fields or generate se
 
 ## Screenshots
 
-*(You can add images of your dashboard here after running it.)*
+[Screenshot](Images/Screenshot_11-11-2025_21321_github.com.jpeg)
 
 ---
 
