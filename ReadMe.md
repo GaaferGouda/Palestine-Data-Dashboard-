@@ -1,4 +1,5 @@
-# Palestine Data Dashboard
+# Palestine Data Dashboard ![Quick Analysis](Images/Screenshot_11-11-2025_21321_github.com.jpeg)
+
 
 A **Streamlit dashboard** for visualizing daily casualties and key statistics from Gaza and West Bank datasets. This dashboard allows you to **upload multiple CSV files**, view key metrics, filter by date, visualize daily casualties, and download merged datasets.
 
