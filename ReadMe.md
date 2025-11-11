@@ -79,7 +79,7 @@ If a column is missing, it will default to `0` for numeric fields or generate se
 
 ## Screenshots
 
-[Screenshot](Images/Screenshot_11-11-2025_21321_github.com.jpeg)
+[Screenshot](Images/Screenshot_11-11-2025_266_localhost.jpeg)
 
 ---
 
